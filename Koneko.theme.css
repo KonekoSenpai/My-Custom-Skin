@@ -1,12 +1,12 @@
-//META{"name":"Sleek","description":"Esbee's Custom Discord Skin!"}*//{}
-/* "Sleek v1" by KonekoSenpai */
+//META{"name":"Weeb Trash","description":"My Custom Discord Skin. Kill yourself @me."}*//{}
+/* "Weeb Trash v1" by KonekoSenpai */
 /* Based on "ClearVision_Sapphire v5" by @Zerthox */
 
 /* IMPORT CSS FROM GITHUB */
-@import url(https://github.com/KonekoSenpai/Esbee-s-Discord-Skin/edit/master/Institution.theme.css);
+@import url(https://raw.githubusercontent.com/KonekoSenpai/My-Custom-Skin/master/Koneko.theme.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
-IMPORTANT: This got really easy after doing Delerium's Skin!
+IMPORTANT: This got really old!
 ---------------------------------------------------------------------------------------------------------------------------------------------
 */
 /*
@@ -44,8 +44,8 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/Esbee-s-Discord-Skin/master/eye.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
-	background-size: 768px 1024px !important;
+    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/My-Custom-Skin/master/profile.png) !important; /* IMPORTANT: Link must be HTTPS! */
+	background-size: 1024px 680px !important;
 	background-position: center !important;
 	
 }
