@@ -22,7 +22,7 @@ Twitch: http://twitch.tv/KonekoSenpaiii
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #39aca7;
+	--main-color: #ea6b16;
 	--hover-color: #1b1b1b;
     --background-blur: 0px;
     --background-brightness: 100%;
@@ -44,8 +44,8 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/My-Custom-Skin/master/profile.png) !important; /* IMPORTANT: Link must be HTTPS! */
-	background-size: 1024px 680px !important;
+    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/My-Custom-Skin/master/Terrible.png) !important; /* IMPORTANT: Link must be HTTPS! */
+	background-size: 1920px 1080px !important;
 	background-position: center !important;
 	
 }
