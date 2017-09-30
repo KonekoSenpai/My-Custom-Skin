@@ -1,4 +1,4 @@
-//META{"name":"slaq","description":"My Custom Discord Skin. Kill yourself @me."}*//{}
+//META{"name":"slaq","description":"My Custom Discord Skin. Kill yourself @me.","author": "slaq","version": "1.2"}*//{}
 /* "slaq v1" by KonekoSenpai */
 /* Based on "ClearVision_Sapphire v5" by @Zerthox */
 
@@ -45,8 +45,9 @@ body::after,
 .radio-theme.light label,
 .radio-theme.dark label{
     background-image: url(https://raw.githubusercontent.com/KonekoSenpai/My-Custom-Skin/master/slaq.png) !important; /* IMPORTANT: Link must be HTTPS! */
-	background-size: 1920px 1080px !important;
+	background-size: 305px 281px !important;
 	background-position: center !important;
+	background-repeat: no-repeat !important;
 	
 }
 /*
