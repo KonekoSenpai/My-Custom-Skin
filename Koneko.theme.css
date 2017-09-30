@@ -1,5 +1,5 @@
-//META{"name":"Weeb Trash","description":"My Custom Discord Skin. Kill yourself @me."}*//{}
-/* "Weeb Trash v1" by KonekoSenpai */
+//META{"name":"slaq","description":"My Custom Discord Skin. Kill yourself @me."}*//{}
+/* "slaq v1" by KonekoSenpai */
 /* Based on "ClearVision_Sapphire v5" by @Zerthox */
 
 /* IMPORT CSS FROM GITHUB */
@@ -22,8 +22,8 @@ Twitch: http://twitch.tv/KonekoSenpaiii
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #ea6b16;
-	--hover-color: #1b1b1b;
+	--main-color: #00e4ff;
+	--hover-color: #00e4ff;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -44,8 +44,8 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/My-Custom-Skin/master/Terrible.png) !important; /* IMPORTANT: Link must be HTTPS! */
-	background-size: 1920px 1080px !important;
+    background-image: url(https://raw.githubusercontent.com/KonekoSenpai/My-Custom-Skin/master/slaq.png) !important; /* IMPORTANT: Link must be HTTPS! */
+	background-size: 305px 281px !important;
 	background-position: center !important;
 	
 }
